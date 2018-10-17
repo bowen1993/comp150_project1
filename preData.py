@@ -32,9 +32,11 @@ def get_role_id_map(filename):
     roleIdMap = {}
     with open(filename, 'r') as f:
         tree = etree.fromstring(bytes(bytearray(str(BeautifulSoup(f.read(), "xml")), encoding='utf-8')))
-        for role in tree.iter('role'):
-            if 'id' in role.attrib and role.text is not None:
-                roleIdMap[role.attrib['id']] = role.text
+        for sp in tree.iter('sp'):
+            speaker = sp.find('speaker')
+            if 'who' not in sp.attrib or speaker is None:
+                continue
+            roleIdMap[sp.attrib['who']] = speaker.text
     return roleIdMap
 
 #ignore this method
@@ -46,7 +48,7 @@ def generateRoleIdMapFile():
             line = line.strip()
             roleIdMap = get_role_id_map(line)
             for role in roleIdMap:
-                csv_writer.writerow([role, roleIdMap[role]])
+                csv_writer.writerow([role, roleIdMap[role], line])
     res_file.close()
             
 
