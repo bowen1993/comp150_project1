@@ -354,9 +354,9 @@ first-page,First Page.,Globe_Shakespeare/ayl.xml,
 sec.-page,Sec. Page.,Globe_Shakespeare/ayl.xml,
 hym.,Hym.,Globe_Shakespeare/ayl.xml,
 jaq.-de-b.,Jaq. de B.,Globe_Shakespeare/ayl.xml,
-cor-7,Sec. Cit.,Globe_Shakespeare/cor.xml,
-cor-20,Men.,Globe_Shakespeare/cor.xml,
-cor-6,Cor.,Globe_Shakespeare/cor.xml,
+cor-7,Sec. Cit.,Globe_Shakespeare/cor.xml, MALE
+cor-20,Men.,Globe_Shakespeare/cor.xml, MALE
+cor-6,Cor.,Globe_Shakespeare/cor.xml, MALE
 cor-21,Sec. Mess.,Globe_Shakespeare/cor.xml,
 cor-28,First Sen.,Globe_Shakespeare/cor.xml,
 cor-8,Com.,Globe_Shakespeare/cor.xml,
@@ -387,37 +387,37 @@ cor-30,Third Serv.,Globe_Shakespeare/cor.xml,
 cor-40,Sec. Sen.,Globe_Shakespeare/cor.xml,
 cor-19,Young Mar.,Globe_Shakespeare/cor.xml,
 cor-9,All Consp.,Globe_Shakespeare/cor.xml,
-cor-17,Sec. Lord.,Globe_Shakespeare/cor.xml,
-bara,Barabas,Christopher_Marlowe/marl.jew.xml,
-mer1,,Christopher_Marlowe/marl.jew.xml,
-mer2,2. Merchant,Christopher_Marlowe/marl.jew.xml,
-jew1,1. Jew,Christopher_Marlowe/marl.jew.xml,
-jew2,2 Jew,Christopher_Marlowe/marl.jew.xml,
-jew3,,Christopher_Marlowe/marl.jew.xml,
-gove,Governor,Christopher_Marlowe/marl.jew.xml,
-bass,,Christopher_Marlowe/marl.jew.xml,
-caly,Calymath,Christopher_Marlowe/marl.jew.xml,
-offi,Officers,Christopher_Marlowe/marl.jew.xml,
-kni1,,Christopher_Marlowe/marl.jew.xml,
-kni2,2. Knight,Christopher_Marlowe/marl.jew.xml,
-read,Reader,Christopher_Marlowe/marl.jew.xml,
-abig,Abigall,Christopher_Marlowe/marl.jew.xml,
-fry1,,Christopher_Marlowe/marl.jew.xml,
-abba,Abbasse,Christopher_Marlowe/marl.jew.xml,
-fry2,,Christopher_Marlowe/marl.jew.xml,
-math,Mathias,Christopher_Marlowe/marl.jew.xml,
-lodo,Lodowicke,Christopher_Marlowe/marl.jew.xml,
-bosc,Bosco,Christopher_Marlowe/marl.jew.xml,
-off1,,Christopher_Marlowe/marl.jew.xml,
-off2,2. Officer,Christopher_Marlowe/marl.jew.xml,
-slav,,Christopher_Marlowe/marl.jew.xml,
-ithi,Ithimore,Christopher_Marlowe/marl.jew.xml,
-mate,Mater,Christopher_Marlowe/marl.jew.xml,
-curt,Curtezane,Christopher_Marlowe/marl.jew.xml,
-pili,Pilia-borza,Christopher_Marlowe/marl.jew.xml,
-mess,Messenger,Christopher_Marlowe/marl.jew.xml,
-serv,Servant,Christopher_Marlowe/marl.jew.xml,
-carp,Carpenter,Christopher_Marlowe/marl.jew.xml,
+cor-17,Sec. Lord.,Globe_Shakespeare/cor.xml, MALE
+bara,Barabas,Christopher_Marlowe/marl.jew.xml, MALE
+mer1,,Christopher_Marlowe/marl.jew.xml, MALE
+mer2,2. Merchant,Christopher_Marlowe/marl.jew.xml, MALE
+jew1,1. Jew,Christopher_Marlowe/marl.jew.xml, MALE
+jew2,2 Jew,Christopher_Marlowe/marl.jew.xml, MALE
+jew3,,Christopher_Marlowe/marl.jew.xml, MALE
+gove,Governor,Christopher_Marlowe/marl.jew.xml, MALE
+bass,,Christopher_Marlowe/marl.jew.xml, MALE
+caly,Calymath,Christopher_Marlowe/marl.jew.xml, MALE
+offi,Officers,Christopher_Marlowe/marl.jew.xml, MALE
+kni1,,Christopher_Marlowe/marl.jew.xml, MALE
+kni2,2. Knight,Christopher_Marlowe/marl.jew.xml, MALE
+read,Reader,Christopher_Marlowe/marl.jew.xml, MALE
+abig,Abigall,Christopher_Marlowe/marl.jew.xml, FEMALE
+fry1,,Christopher_Marlowe/marl.jew.xml, MALE
+abba,Abbasse,Christopher_Marlowe/marl.jew.xml, FEMALE
+fry2,,Christopher_Marlowe/marl.jew.xml, MALE
+math,Mathias,Christopher_Marlowe/marl.jew.xml, MALE
+lodo,Lodowicke,Christopher_Marlowe/marl.jew.xml, MALE
+bosc,Bosco,Christopher_Marlowe/marl.jew.xml, MALE
+off1,,Christopher_Marlowe/marl.jew.xml, MALE
+off2,2. Officer,Christopher_Marlowe/marl.jew.xml, MALE
+slav,,Christopher_Marlowe/marl.jew.xml, MALE
+ithi,Ithimore,Christopher_Marlowe/marl.jew.xml, MALE
+mate,Mater,Christopher_Marlowe/marl.jew.xml, FEMALE
+curt,Curtezane,Christopher_Marlowe/marl.jew.xml, FEMALE
+pili,Pilia-borza,Christopher_Marlowe/marl.jew.xml, MALE
+mess,Messenger,Christopher_Marlowe/marl.jew.xml, MALE
+serv,Servant,Christopher_Marlowe/marl.jew.xml, MALE
+carp,Carpenter,Christopher_Marlowe/marl.jew.xml, MALE
 king,King,Christopher_Marlowe/marl.massacre.xml, MALE
 nava,Navarre,Christopher_Marlowe/marl.massacre.xml, MALE
 quee,,Christopher_Marlowe/marl.massacre.xml, FEMALE
