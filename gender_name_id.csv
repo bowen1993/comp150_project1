@@ -357,36 +357,34 @@ jaq.-de-b.,Jaq. de B.,Globe_Shakespeare/ayl.xml,
 cor-7,Sec. Cit.,Globe_Shakespeare/cor.xml, MALE
 cor-20,Men.,Globe_Shakespeare/cor.xml, MALE
 cor-6,Cor.,Globe_Shakespeare/cor.xml, MALE
-cor-21,Sec. Mess.,Globe_Shakespeare/cor.xml,
-cor-28,First Sen.,Globe_Shakespeare/cor.xml,
-cor-8,Com.,Globe_Shakespeare/cor.xml,
-cor-33,Tit.,Globe_Shakespeare/cor.xml,
-cor-31,Sic.,Globe_Shakespeare/cor.xml,
-cor-13,Bru.,Globe_Shakespeare/cor.xml,
-cor-29,First Sen.,Globe_Shakespeare/cor.xml,
-cor-4,Auf.,Globe_Shakespeare/cor.xml,
-cor-39,Vol.,Globe_Shakespeare/cor.xml,
-cor-37,Vir.,Globe_Shakespeare/cor.xml,
-cor-11,Gent.,Globe_Shakespeare/cor.xml,
-cor-35,Val.,Globe_Shakespeare/cor.xml,
-cor-15,Lart.,Globe_Shakespeare/cor.xml,
-cor-32,First Sol.,Globe_Shakespeare/cor.xml,
-cor-27,Third Rom.,Globe_Shakespeare/cor.xml,
-cor-26,Sec. Rom.,Globe_Shakespeare/cor.xml,
-cor-16,Lieu.,Globe_Shakespeare/cor.xml,
-cor-31 cor-13,Both Tri.,Globe_Shakespeare/cor.xml,
-cor-39 cor-37,Vol. Vir.,Globe_Shakespeare/cor.xml,
-cor-12,Herald.,Globe_Shakespeare/cor.xml,
-cor-24,Off.,Globe_Shakespeare/cor.xml,
-cor-2,d.,Globe_Shakespeare/cor.xml,
-cor-25,A Patrician.,Globe_Shakespeare/cor.xml,
-cor-22,Rom.,Globe_Shakespeare/cor.xml,
-cor-1,Vols.,Globe_Shakespeare/cor.xml,
-cor-7a,Cit.,Globe_Shakespeare/cor.xml,
-cor-30,Third Serv.,Globe_Shakespeare/cor.xml,
-cor-40,Sec. Sen.,Globe_Shakespeare/cor.xml,
-cor-19,Young Mar.,Globe_Shakespeare/cor.xml,
-cor-9,All Consp.,Globe_Shakespeare/cor.xml,
+cor-21,Sec. Mess.,Globe_Shakespeare/cor.xml, MALE
+cor-28,First Sen.,Globe_Shakespeare/cor.xml, MALE
+cor-8,Com.,Globe_Shakespeare/cor.xml, MALE
+cor-33,Tit.,Globe_Shakespeare/cor.xml, MALE
+cor-31,Sic.,Globe_Shakespeare/cor.xml, MALE
+cor-13,Bru.,Globe_Shakespeare/cor.xml, MALE
+cor-29,First Sen.,Globe_Shakespeare/cor.xml, MALE
+cor-4,Auf.,Globe_Shakespeare/cor.xml, MALE
+cor-39,Vol.,Globe_Shakespeare/cor.xml, FEMALE
+cor-37,Vir.,Globe_Shakespeare/cor.xml, FEMALE
+cor-11,Gent.,Globe_Shakespeare/cor.xml, FEMALE
+cor-35,Val.,Globe_Shakespeare/cor.xml, FEMALE
+cor-15,Lart.,Globe_Shakespeare/cor.xml, MALE
+cor-32,First Sol.,Globe_Shakespeare/cor.xml, MALE
+cor-27,Third Rom.,Globe_Shakespeare/cor.xml, MALE
+cor-26,Sec. Rom.,Globe_Shakespeare/cor.xml, MALE
+cor-16,Lieu.,Globe_Shakespeare/cor.xml, MALE
+cor-12,Herald.,Globe_Shakespeare/cor.xml, MALE
+cor-24,Off.,Globe_Shakespeare/cor.xml, MALE
+cor-2,d.,Globe_Shakespeare/cor.xml, MALE
+cor-25,A Patrician.,Globe_Shakespeare/cor.xml, MALE
+cor-22,Rom.,Globe_Shakespeare/cor.xml, MALE
+cor-1,Vols.,Globe_Shakespeare/cor.xml, MALE
+cor-7a,Cit.,Globe_Shakespeare/cor.xml, 
+cor-30,Third Serv.,Globe_Shakespeare/cor.xml, MALE 
+cor-40,Sec. Sen.,Globe_Shakespeare/cor.xml, MALE
+cor-19,Young Mar.,Globe_Shakespeare/cor.xml, MALE
+cor-9,All Consp.,Globe_Shakespeare/cor.xml, MALE
 cor-17,Sec. Lord.,Globe_Shakespeare/cor.xml, MALE
 bara,Barabas,Christopher_Marlowe/marl.jew.xml, MALE
 mer1,,Christopher_Marlowe/marl.jew.xml, MALE
@@ -424,8 +422,8 @@ quee,,Christopher_Marlowe/marl.massacre.xml, FEMALE
 marg,Queene Margaret,Christopher_Marlowe/marl.massacre.xml, FEMALE
 admi,Admirall,Christopher_Marlowe/marl.massacre.xml, MALE
 cond,Condy,Christopher_Marlowe/marl.massacre.xml, MALE
-guis,Guise,Christopher_Marlowe/marl.massacre.xml, MALE
-poth,Pothecarie,Christopher_Marlowe/marl.massacre.xml, 
+guis,Guise,Christopher_Marlowe/marl.massacre.xml, MALE 
+poth,Pothecarie,Christopher_Marlowe/marl.massacre.xml, MALE
 sold,Souldier,Christopher_Marlowe/marl.massacre.xml, MALE
 old,Old Queene,Christopher_Marlowe/marl.massacre.xml, FEMALE
 anjo,Anjoy,Christopher_Marlowe/marl.massacre.xml, MALE
@@ -451,7 +449,7 @@ maid,Maid,Christopher_Marlowe/marl.massacre.xml, FEMALE
 bart,Bartus,Christopher_Marlowe/marl.massacre.xml, MALE
 mess,Messenger,Christopher_Marlowe/marl.massacre.xml, MALE
 joye,Joyeux,Christopher_Marlowe/marl.massacre.xml, MALE
-capt,Captaine,Christopher_Marlowe/marl.massacre.xml,
+capt,Captaine,Christopher_Marlowe/marl.massacre.xml, MALE
 murd1,1,Christopher_Marlowe/marl.massacre.xml, MALE
 murd2,2,Christopher_Marlowe/marl.massacre.xml, MALE
 murd3,3,Christopher_Marlowe/marl.massacre.xml, MALE
