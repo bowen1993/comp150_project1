@@ -22,7 +22,7 @@ for subdir, dirs, files in os.walk('data'):
 
 print(all_roles)
 
-csv_file = open('name_id.csv')
+csv_file = open('gender_name_id.csv')
 filtered_csv = open('filtered_name_id.csv', 'w')
 csv_reader = csv.reader(csv_file)
 csv_writer = csv.writer(filtered_csv)

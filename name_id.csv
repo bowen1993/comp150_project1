@@ -1,460 +1,460 @@
-s-1h4-1,King.,Globe_Shakespeare/1h4.xml
-s-1h4-2,West.,Globe_Shakespeare/1h4.xml
-s-1h4-3,Fal.,Globe_Shakespeare/1h4.xml
-s-1h4-4,Prince.,Globe_Shakespeare/1h4.xml
-s-1h4-6,Poins.,Globe_Shakespeare/1h4.xml
+s-1h4-32,Sir M.,Globe_Shakespeare/1h4.xml
 s-1h4-10,Wor.,Globe_Shakespeare/1h4.xml
-s-1h4-8,North.,Globe_Shakespeare/1h4.xml
-s-1h4-9,Hot.,Globe_Shakespeare/1h4.xml
-s-1h4-7,Blunt.,Globe_Shakespeare/1h4.xml
+s-1h4-13,Cham.,Globe_Shakespeare/1h4.xml
 s-1h4-12,Car.,Globe_Shakespeare/1h4.xml
 s-1h4-15,Ost.,Globe_Shakespeare/1h4.xml
 s-1h4-14,Gads.,Globe_Shakespeare/1h4.xml
-s-1h4-13,Cham.,Globe_Shakespeare/1h4.xml
-s-1h4-16,Bard.,Globe_Shakespeare/1h4.xml
 s-1h4-17,Peto.,Globe_Shakespeare/1h4.xml
-s-1h4-18,Travellers.,Globe_Shakespeare/1h4.xml
+s-1h4-16,Bard.,Globe_Shakespeare/1h4.xml
 s-1h4-19,Thieves.,Globe_Shakespeare/1h4.xml
+s-1h4-18,Travellers.,Globe_Shakespeare/1h4.xml
+s-1h4-31,Ver.,Globe_Shakespeare/1h4.xml
+s-1h4-30,Doug.,Globe_Shakespeare/1h4.xml
+s-1h4-35,Lan.,Globe_Shakespeare/1h4.xml
+s-1h4-34,Mess.,Globe_Shakespeare/1h4.xml
+s-1h4-4,Prince.,Globe_Shakespeare/1h4.xml
+s-1h4-7,Blunt.,Globe_Shakespeare/1h4.xml
+s-1h4-6,Poins.,Globe_Shakespeare/1h4.xml
+s-1h4-1,King.,Globe_Shakespeare/1h4.xml
+s-1h4-3,Fal.,Globe_Shakespeare/1h4.xml
+s-1h4-2,West.,Globe_Shakespeare/1h4.xml
+s-1h4-9,Hot.,Globe_Shakespeare/1h4.xml
+s-1h4-8,North.,Globe_Shakespeare/1h4.xml
+s-1h4-28,Mort.,Globe_Shakespeare/1h4.xml
 s-1h4-20,Lady P.,Globe_Shakespeare/1h4.xml
 s-1h4-21,Serv.,Globe_Shakespeare/1h4.xml
 s-1h4-22,Fran.,Globe_Shakespeare/1h4.xml
-s-1h4-26,Vint.,Globe_Shakespeare/1h4.xml
 s-1h4-23,Host.,Globe_Shakespeare/1h4.xml
 s-1h4-24,Sher.,Globe_Shakespeare/1h4.xml
-s-1h4-28,Mort.,Globe_Shakespeare/1h4.xml
+s-1h4-26,Vint.,Globe_Shakespeare/1h4.xml
 s-1h4-27,Glend.,Globe_Shakespeare/1h4.xml
-s-1h4-30,Doug.,Globe_Shakespeare/1h4.xml
-s-1h4-34,Mess.,Globe_Shakespeare/1h4.xml
-s-1h4-31,Ver.,Globe_Shakespeare/1h4.xml
 s-1h4-33,Arch.,Globe_Shakespeare/1h4.xml
-s-1h4-32,Sir M.,Globe_Shakespeare/1h4.xml
-s-1h4-35,Lan.,Globe_Shakespeare/1h4.xml
-bed.,Bed.,Globe_Shakespeare/1h6.xml
-glou.,Glou.,Globe_Shakespeare/1h6.xml
-exe.,Exe.,Globe_Shakespeare/1h6.xml
-win.,Win.,Globe_Shakespeare/1h6.xml
-mess.,Mess.,Globe_Shakespeare/1h6.xml
-char.,Char.,Globe_Shakespeare/1h6.xml
-alen.,Alen.,Globe_Shakespeare/1h6.xml
-reig.,Reig.,Globe_Shakespeare/1h6.xml
-bast.,Bast.,Globe_Shakespeare/1h6.xml
-puc.,Puc.,Globe_Shakespeare/1h6.xml
-first-warder.,First Warder.,Globe_Shakespeare/1h6.xml
-first-serv.,First Serv.,Globe_Shakespeare/1h6.xml
-second-warder.,Second Warder.,Globe_Shakespeare/1h6.xml
-woodv.,Woodv.,Globe_Shakespeare/1h6.xml
-serv.,Serv.,Globe_Shakespeare/1h6.xml
-may.,May.,Globe_Shakespeare/1h6.xml
-off.,Off.,Globe_Shakespeare/1h6.xml
-m.-gun.,M. Gun.,Globe_Shakespeare/1h6.xml
-boy.,Boy.,Globe_Shakespeare/1h6.xml
-sal.,Sal.,Globe_Shakespeare/1h6.xml
-tal.,Tal.,Globe_Shakespeare/1h6.xml
-gar.,Gar.,Globe_Shakespeare/1h6.xml
-glan.,Glan.,Globe_Shakespeare/1h6.xml
-serg.,Serg.,Globe_Shakespeare/1h6.xml
-first-sent.,First Sent.,Globe_Shakespeare/1h6.xml
-bur.,Bur.,Globe_Shakespeare/1h6.xml
 sent.,Sent.,Globe_Shakespeare/1h6.xml
-sold.,Sold.,Globe_Shakespeare/1h6.xml
-cap.,Cap.,Globe_Shakespeare/1h6.xml
-count.,Count.,Globe_Shakespeare/1h6.xml
-port.,Port.,Globe_Shakespeare/1h6.xml
-plan.,Plan.,Globe_Shakespeare/1h6.xml
-suf.,Suf.,Globe_Shakespeare/1h6.xml
-som.,Som.,Globe_Shakespeare/1h6.xml
-war.,War.,Globe_Shakespeare/1h6.xml
-ver.,Ver.,Globe_Shakespeare/1h6.xml
-law.,Law.,Globe_Shakespeare/1h6.xml
-mor.,Mor.,Globe_Shakespeare/1h6.xml
-first-gaol.,First Gaol.,Globe_Shakespeare/1h6.xml
-king.,King.,Globe_Shakespeare/1h6.xml
-sec.-serv.,Sec. Serv.,Globe_Shakespeare/1h6.xml
+serv.,Serv.,Globe_Shakespeare/1h6.xml
+m.-gun.,M. Gun.,Globe_Shakespeare/1h6.xml
+exe.,Exe.,Globe_Shakespeare/1h6.xml
+may.,May.,Globe_Shakespeare/1h6.xml
+boy.,Boy.,Globe_Shakespeare/1h6.xml
+reig.,Reig.,Globe_Shakespeare/1h6.xml
 third-serv.,Third Serv.,Globe_Shakespeare/1h6.xml
-all.,All.,Globe_Shakespeare/1h6.xml
-first-sol.,First Sol.,Globe_Shakespeare/1h6.xml
-watch.,Watch.,Globe_Shakespeare/1h6.xml
-fast.,Fast.,Globe_Shakespeare/1h6.xml
+war.,War.,Globe_Shakespeare/1h6.xml
 bas.,Bas.,Globe_Shakespeare/1h6.xml
+cap.,Cap.,Globe_Shakespeare/1h6.xml
 york.,York.,Globe_Shakespeare/1h6.xml
-gen.,Gen.,Globe_Shakespeare/1h6.xml
-lucy.,Lucy.,Globe_Shakespeare/1h6.xml
-john.,John.,Globe_Shakespeare/1h6.xml
-leg.,Leg.,Globe_Shakespeare/1h6.xml
-scout.,Scout.,Globe_Shakespeare/1h6.xml
-mar.,Mar.,Globe_Shakespeare/1h6.xml
+char.,Char.,Globe_Shakespeare/1h6.xml
+plan.,Plan.,Globe_Shakespeare/1h6.xml
+sec.-serv.,Sec. Serv.,Globe_Shakespeare/1h6.xml
 shep.,Shep.,Globe_Shakespeare/1h6.xml
+ver.,Ver.,Globe_Shakespeare/1h6.xml
+port.,Port.,Globe_Shakespeare/1h6.xml
+law.,Law.,Globe_Shakespeare/1h6.xml
+sal.,Sal.,Globe_Shakespeare/1h6.xml
+scout.,Scout.,Globe_Shakespeare/1h6.xml
+som.,Som.,Globe_Shakespeare/1h6.xml
+bed.,Bed.,Globe_Shakespeare/1h6.xml
+first-sent.,First Sent.,Globe_Shakespeare/1h6.xml
+gen.,Gen.,Globe_Shakespeare/1h6.xml
 car.,Car.,Globe_Shakespeare/1h6.xml
-s-2h4-44,Rum.,Globe_Shakespeare/2h4.xml
-s-2h4-4,L. Bard.,Globe_Shakespeare/2h4.xml
-s-2h4-2,Port.,Globe_Shakespeare/2h4.xml
-s-2h4-6,North.,Globe_Shakespeare/2h4.xml
-s-2h4-7,Tra.,Globe_Shakespeare/2h4.xml
-s-2h4-5,Mor.,Globe_Shakespeare/2h4.xml
-s-2h4-9,Fal.,Globe_Shakespeare/2h4.xml
-s-2h4-10,Page.,Globe_Shakespeare/2h4.xml
-s-2h4-8,Ch. Just.,Globe_Shakespeare/2h4.xml
-s-2h4-11,Serv.,Globe_Shakespeare/2h4.xml
-s-2h4-14,Arch.,Globe_Shakespeare/2h4.xml
-s-2h4-13,Mowb.,Globe_Shakespeare/2h4.xml
-s-2h4-12,Hast.,Globe_Shakespeare/2h4.xml
-s-2h4-26,Dol.,Globe_Shakespeare/2h4.xml
-s-2h4-15,Fang.,Globe_Shakespeare/2h4.xml
-s-2h4-19,Snare.,Globe_Shakespeare/2h4.xml
-s-2h4-16,Gow.,Globe_Shakespeare/2h4.xml
-s-2h4-21,Prince.,Globe_Shakespeare/2h4.xml
-s-2h4-23,Poins.,Globe_Shakespeare/2h4.xml
-s-2h4-20,Bard.,Globe_Shakespeare/2h4.xml
-s-2h4-24,Lady N.,Globe_Shakespeare/2h4.xml
-s-2h4-25,Lady P.,Globe_Shakespeare/2h4.xml
-s-2h4-27,First Draw.,Globe_Shakespeare/2h4.xml
-s-2h4-31,Pist.,Globe_Shakespeare/2h4.xml
-s-2h4-21 s-2h4-23,Prince. Poins.,Globe_Shakespeare/2h4.xml
-s-2h4-30,Peto.,Globe_Shakespeare/2h4.xml
-s-2h4-33,King.,Globe_Shakespeare/2h4.xml
+watch.,Watch.,Globe_Shakespeare/1h6.xml
+win.,Win.,Globe_Shakespeare/1h6.xml
+serg.,Serg.,Globe_Shakespeare/1h6.xml
+tal.,Tal.,Globe_Shakespeare/1h6.xml
+second-warder.,Second Warder.,Globe_Shakespeare/1h6.xml
+gar.,Gar.,Globe_Shakespeare/1h6.xml
+sold.,Sold.,Globe_Shakespeare/1h6.xml
+bur.,Bur.,Globe_Shakespeare/1h6.xml
+king.,King.,Globe_Shakespeare/1h6.xml
+count.,Count.,Globe_Shakespeare/1h6.xml
+first-serv.,First Serv.,Globe_Shakespeare/1h6.xml
+alen.,Alen.,Globe_Shakespeare/1h6.xml
+suf.,Suf.,Globe_Shakespeare/1h6.xml
+puc.,Puc.,Globe_Shakespeare/1h6.xml
+mess.,Mess.,Globe_Shakespeare/1h6.xml
+lucy.,Lucy.,Globe_Shakespeare/1h6.xml
+woodv.,Woodv.,Globe_Shakespeare/1h6.xml
+fast.,Fast.,Globe_Shakespeare/1h6.xml
+john.,John.,Globe_Shakespeare/1h6.xml
+glan.,Glan.,Globe_Shakespeare/1h6.xml
+off.,Off.,Globe_Shakespeare/1h6.xml
+glou.,Glou.,Globe_Shakespeare/1h6.xml
+first-gaol.,First Gaol.,Globe_Shakespeare/1h6.xml
+leg.,Leg.,Globe_Shakespeare/1h6.xml
+all.,All.,Globe_Shakespeare/1h6.xml
+mar.,Mar.,Globe_Shakespeare/1h6.xml
+mor.,Mor.,Globe_Shakespeare/1h6.xml
+first-sol.,First Sol.,Globe_Shakespeare/1h6.xml
+bast.,Bast.,Globe_Shakespeare/1h6.xml
+first-warder.,First Warder.,Globe_Shakespeare/1h6.xml
+s-2h4-41,Sil.,Globe_Shakespeare/2h4.xml
 s-2h4-35,War.,Globe_Shakespeare/2h4.xml
 s-2h4-40,Shal.,Globe_Shakespeare/2h4.xml
-s-2h4-41,Sil.,Globe_Shakespeare/2h4.xml
+s-2h4-21,Prince.,Globe_Shakespeare/2h4.xml
+s-2h4-20,Bard.,Globe_Shakespeare/2h4.xml
+s-2h4-23,Poins.,Globe_Shakespeare/2h4.xml
+s-2h4-44,Rum.,Globe_Shakespeare/2h4.xml
+s-2h4-25,Lady P.,Globe_Shakespeare/2h4.xml
+s-2h4-24,Lady N.,Globe_Shakespeare/2h4.xml
+s-2h4-27,First Draw.,Globe_Shakespeare/2h4.xml
+s-2h4-26,Dol.,Globe_Shakespeare/2h4.xml
+s-2h4-49,Clar.,Globe_Shakespeare/2h4.xml
+s-2h4-48,Cole.,Globe_Shakespeare/2h4.xml
+s-2h4-6,North.,Globe_Shakespeare/2h4.xml
+s-2h4-7,Tra.,Globe_Shakespeare/2h4.xml
+s-2h4-4,L. Bard.,Globe_Shakespeare/2h4.xml
+s-2h4-5,Mor.,Globe_Shakespeare/2h4.xml
+s-2h4-2,Port.,Globe_Shakespeare/2h4.xml
+s-2h4-50 s-2h4-49,Glou. Clar.,Globe_Shakespeare/2h4.xml
+s-2h4-36,Bull.,Globe_Shakespeare/2h4.xml
+s-2h4-8,Ch. Just.,Globe_Shakespeare/2h4.xml
+s-2h4-9,Fal.,Globe_Shakespeare/2h4.xml
+s-2h4-53,Davy.,Globe_Shakespeare/2h4.xml
+s-2h4-30,Peto.,Globe_Shakespeare/2h4.xml
+s-2h4-33,King.,Globe_Shakespeare/2h4.xml
+s-2h4-37,Fee.,Globe_Shakespeare/2h4.xml
+s-2h4-54,First Bead.,Globe_Shakespeare/2h4.xml
+s-2h4-19,Snare.,Globe_Shakespeare/2h4.xml
+s-2h4-56,First Groom.,Globe_Shakespeare/2h4.xml
+s-2h4-50,Glou.,Globe_Shakespeare/2h4.xml
 s-2h4-38,Moul.,Globe_Shakespeare/2h4.xml
 s-2h4-39,Shad.,Globe_Shakespeare/2h4.xml
-s-2h4-42,Wart.,Globe_Shakespeare/2h4.xml
-s-2h4-37,Fee.,Globe_Shakespeare/2h4.xml
-s-2h4-36,Bull.,Globe_Shakespeare/2h4.xml
-s-2h4-45,Mess.,Globe_Shakespeare/2h4.xml
-s-2h4-46,West.,Globe_Shakespeare/2h4.xml
+s-2h4-10,Page.,Globe_Shakespeare/2h4.xml
+s-2h4-11,Serv.,Globe_Shakespeare/2h4.xml
+s-2h4-12,Hast.,Globe_Shakespeare/2h4.xml
+s-2h4-13,Mowb.,Globe_Shakespeare/2h4.xml
+s-2h4-14,Arch.,Globe_Shakespeare/2h4.xml
+s-2h4-15,Fang.,Globe_Shakespeare/2h4.xml
+s-2h4-16,Gow.,Globe_Shakespeare/2h4.xml
+s-2h4-31,Pist.,Globe_Shakespeare/2h4.xml
 s-2h4-47,Lan.,Globe_Shakespeare/2h4.xml
-s-2h4-48,Cole.,Globe_Shakespeare/2h4.xml
-s-2h4-50,Glou.,Globe_Shakespeare/2h4.xml
-s-2h4-49,Clar.,Globe_Shakespeare/2h4.xml
-s-2h4-55,Har.,Globe_Shakespeare/2h4.xml
-s-2h4-53,Davy.,Globe_Shakespeare/2h4.xml
-s-2h4-50 s-2h4-49,Glou. Clar.,Globe_Shakespeare/2h4.xml
+s-2h4-21 s-2h4-23,Prince. Poins.,Globe_Shakespeare/2h4.xml
+s-2h4-46,West.,Globe_Shakespeare/2h4.xml
+s-2h4-45,Mess.,Globe_Shakespeare/2h4.xml
 s-2h4-21 s-2h4-49 s-2h4-47 s-2h4-50,Princes.,Globe_Shakespeare/2h4.xml
-s-2h4-54,First Bead.,Globe_Shakespeare/2h4.xml
-s-2h4-56,First Groom.,Globe_Shakespeare/2h4.xml
-suf.,Suf.,Globe_Shakespeare/2h6.xml
-king.,King.,Globe_Shakespeare/2h6.xml
-queen,Queen.,Globe_Shakespeare/2h6.xml
-glou.,Glou.,Globe_Shakespeare/2h6.xml
-car.,Car.,Globe_Shakespeare/2h6.xml
-sal.,Sal.,Globe_Shakespeare/2h6.xml
-war.,War.,Globe_Shakespeare/2h6.xml
-york.,York.,Globe_Shakespeare/2h6.xml
-buck.,Buck.,Globe_Shakespeare/2h6.xml
-som.,Som.,Globe_Shakespeare/2h6.xml
-duch.,Duch.,Globe_Shakespeare/2h6.xml
-mess.,Mess.,Globe_Shakespeare/2h6.xml
-hume.,Hume.,Globe_Shakespeare/2h6.xml
-first-petit.,First Petit.,Globe_Shakespeare/2h6.xml
-sec.-petit.,Sec. Petit.,Globe_Shakespeare/2h6.xml
-peter.,Peter.,Globe_Shakespeare/2h6.xml
-all.,All.,Globe_Shakespeare/2h6.xml
-hor.,Hor.,Globe_Shakespeare/2h6.xml
+s-2h4-55,Har.,Globe_Shakespeare/2h4.xml
+s-2h4-42,Wart.,Globe_Shakespeare/2h4.xml
 boling.,Boling.,Globe_Shakespeare/2h6.xml
-spir.,Spir.,Globe_Shakespeare/2h6.xml
-m.-jourd.,M. Jourd.,Globe_Shakespeare/2h6.xml
-towns.,Towns.,Globe_Shakespeare/2h6.xml
-simp.,Simp.,Globe_Shakespeare/2h6.xml
-wife.,Wife.,Globe_Shakespeare/2h6.xml
-may.,May.,Globe_Shakespeare/2h6.xml
-bead.,Bead.,Globe_Shakespeare/2h6.xml
-both.,Both.,Globe_Shakespeare/2h6.xml
-first-neigh.,First Neigh.,Globe_Shakespeare/2h6.xml
-sec.-neigh.,Sec. Neigh.,Globe_Shakespeare/2h6.xml
-third-neigh.,Third Neigh.,Globe_Shakespeare/2h6.xml
-first-pren.,First 'Pren.,Globe_Shakespeare/2h6.xml
-sec.-pren.,Sec. 'Pren.,Globe_Shakespeare/2h6.xml
-serv.,Serv.,Globe_Shakespeare/2h6.xml
 her.,Her.,Globe_Shakespeare/2h6.xml
-sher.,Sher.,Globe_Shakespeare/2h6.xml
-stan.,Stan.,Globe_Shakespeare/2h6.xml
-post.,Post.,Globe_Shakespeare/2h6.xml
-first-mur.,First Mur.,Globe_Shakespeare/2h6.xml
-sec.-mur.,Sec. Mur.,Globe_Shakespeare/2h6.xml
+serv.,Serv.,Globe_Shakespeare/2h6.xml
+first-pren.,First 'Pren.,Globe_Shakespeare/2h6.xml
+queen,Queen.,Globe_Shakespeare/2h6.xml
+both.,Both.,Globe_Shakespeare/2h6.xml
+sec.-pren.,Sec. 'Pren.,Globe_Shakespeare/2h6.xml
+mast.,Mast.,Globe_Shakespeare/2h6.xml
+war.,War.,Globe_Shakespeare/2h6.xml
 commons.,Commons.,Globe_Shakespeare/2h6.xml
 vaux.,Vaux.,Globe_Shakespeare/2h6.xml
-cap.,Cap.,Globe_Shakespeare/2h6.xml
-first-gent.,First Gent.,Globe_Shakespeare/2h6.xml
-mast.,Mast.,Globe_Shakespeare/2h6.xml
-mate.,Mate.,Globe_Shakespeare/2h6.xml
-sec.-gent.,Sec. Gent.,Globe_Shakespeare/2h6.xml
-whit.,Whit.,Globe_Shakespeare/2h6.xml
-bevis.,Bevis.,Globe_Shakespeare/2h6.xml
-holl.,Holl.,Globe_Shakespeare/2h6.xml
-cade.,Cade.,Globe_Shakespeare/2h6.xml
-dick.,Dick.,Globe_Shakespeare/2h6.xml
 smith.,Smith.,Globe_Shakespeare/2h6.xml
-clerk.,Clerk.,Globe_Shakespeare/2h6.xml
-mich.,Mich.,Globe_Shakespeare/2h6.xml
-staf.,Staf.,Globe_Shakespeare/2h6.xml
-bro.,Bro.,Globe_Shakespeare/2h6.xml
-say.,Say.,Globe_Shakespeare/2h6.xml
-scales.,Scales.,Globe_Shakespeare/2h6.xml
-first-cit.,First Cit.,Globe_Shakespeare/2h6.xml
-sold.,Sold.,Globe_Shakespeare/2h6.xml
-geo.,Geo.,Globe_Shakespeare/2h6.xml
+car.,Car.,Globe_Shakespeare/2h6.xml
 clif.,Clif.,Globe_Shakespeare/2h6.xml
-iden.,Iden.,Globe_Shakespeare/2h6.xml
-edw.,Edw.,Globe_Shakespeare/2h6.xml
+york.,York.,Globe_Shakespeare/2h6.xml
+buck.,Buck.,Globe_Shakespeare/2h6.xml
+sec.-gent.,Sec. Gent.,Globe_Shakespeare/2h6.xml
+duch.,Duch.,Globe_Shakespeare/2h6.xml
+sec.-petit.,Sec. Petit.,Globe_Shakespeare/2h6.xml
+clerk.,Clerk.,Globe_Shakespeare/2h6.xml
+m.-jourd.,M. Jourd.,Globe_Shakespeare/2h6.xml
+first-mur.,First Mur.,Globe_Shakespeare/2h6.xml
+sher.,Sher.,Globe_Shakespeare/2h6.xml
+dick.,Dick.,Globe_Shakespeare/2h6.xml
+sal.,Sal.,Globe_Shakespeare/2h6.xml
+first-gent.,First Gent.,Globe_Shakespeare/2h6.xml
+post.,Post.,Globe_Shakespeare/2h6.xml
+mich.,Mich.,Globe_Shakespeare/2h6.xml
 rich.,Rich.,Globe_Shakespeare/2h6.xml
+bead.,Bead.,Globe_Shakespeare/2h6.xml
+sold.,Sold.,Globe_Shakespeare/2h6.xml
+wife.,Wife.,Globe_Shakespeare/2h6.xml
+may.,May.,Globe_Shakespeare/2h6.xml
+king.,King.,Globe_Shakespeare/2h6.xml
+bevis.,Bevis.,Globe_Shakespeare/2h6.xml
+som.,Som.,Globe_Shakespeare/2h6.xml
+geo.,Geo.,Globe_Shakespeare/2h6.xml
+suf.,Suf.,Globe_Shakespeare/2h6.xml
+mate.,Mate.,Globe_Shakespeare/2h6.xml
+hor.,Hor.,Globe_Shakespeare/2h6.xml
+bro.,Bro.,Globe_Shakespeare/2h6.xml
+third-neigh.,Third Neigh.,Globe_Shakespeare/2h6.xml
+staf.,Staf.,Globe_Shakespeare/2h6.xml
+cade.,Cade.,Globe_Shakespeare/2h6.xml
+say.,Say.,Globe_Shakespeare/2h6.xml
+hume.,Hume.,Globe_Shakespeare/2h6.xml
+mess.,Mess.,Globe_Shakespeare/2h6.xml
+iden.,Iden.,Globe_Shakespeare/2h6.xml
+glou.,Glou.,Globe_Shakespeare/2h6.xml
+first-petit.,First Petit.,Globe_Shakespeare/2h6.xml
+first-neigh.,First Neigh.,Globe_Shakespeare/2h6.xml
+spir.,Spir.,Globe_Shakespeare/2h6.xml
+edw.,Edw.,Globe_Shakespeare/2h6.xml
+all.,All.,Globe_Shakespeare/2h6.xml
+sec.-neigh.,Sec. Neigh.,Globe_Shakespeare/2h6.xml
+cap.,Cap.,Globe_Shakespeare/2h6.xml
+holl.,Holl.,Globe_Shakespeare/2h6.xml
+sec.-mur.,Sec. Mur.,Globe_Shakespeare/2h6.xml
+whit.,Whit.,Globe_Shakespeare/2h6.xml
+peter.,Peter.,Globe_Shakespeare/2h6.xml
+towns.,Towns.,Globe_Shakespeare/2h6.xml
+first-cit.,First Cit.,Globe_Shakespeare/2h6.xml
 y.-clif.,Y. Clif.,Globe_Shakespeare/2h6.xml
-war.,War.,Globe_Shakespeare/3h6.xml
-york.,York.,Globe_Shakespeare/3h6.xml
-edw.,Edw.,Globe_Shakespeare/3h6.xml
-mont.,Mont.,Globe_Shakespeare/3h6.xml
-rich.,Rich.,Globe_Shakespeare/3h6.xml
-norf.,Norf.,Globe_Shakespeare/3h6.xml
-k.-hen.,K. Hen.,Globe_Shakespeare/3h6.xml
-north.,North.,Globe_Shakespeare/3h6.xml
-clif.,Clif.,Globe_Shakespeare/3h6.xml
-west.,West.,Globe_Shakespeare/3h6.xml
-exe.,Exe.,Globe_Shakespeare/3h6.xml
-q.-mar.,Q. Mar.,Globe_Shakespeare/3h6.xml
-prince.,Prince.,Globe_Shakespeare/3h6.xml
-mess.,Mess.,Globe_Shakespeare/3h6.xml
-sir-john.,Sir John.,Globe_Shakespeare/3h6.xml
-rut.,Rut.,Globe_Shakespeare/3h6.xml
-tut.,Tut.,Globe_Shakespeare/3h6.xml
-geo.,Geo.,Globe_Shakespeare/3h6.xml
-son.,Son.,Globe_Shakespeare/3h6.xml
-fath.,Fath.,Globe_Shakespeare/3h6.xml
-first-keep.,First Keep.,Globe_Shakespeare/3h6.xml
-sec.-keep.,Sec. Keep.,Globe_Shakespeare/3h6.xml
-k.-edw.,K. Edw.,Globe_Shakespeare/3h6.xml
-glou.,Glou.,Globe_Shakespeare/3h6.xml
-clar.,Clar.,Globe_Shakespeare/3h6.xml
-l.-grey.,Q. Eliz.,Globe_Shakespeare/3h6.xml
-nob.,Nob.,Globe_Shakespeare/3h6.xml
-k.-lew.,K. Lew.,Globe_Shakespeare/3h6.xml
-oxf.,Oxf.,Globe_Shakespeare/3h6.xml
-bona.,Bona.,Globe_Shakespeare/3h6.xml
-post.,Post.,Globe_Shakespeare/3h6.xml
-som.,Som.,Globe_Shakespeare/3h6.xml
-hast.,Hast.,Globe_Shakespeare/3h6.xml
-first-watch.,First Watch.,Globe_Shakespeare/3h6.xml
-second-watch.,Second Watch.,Globe_Shakespeare/3h6.xml
-third-watch.,Third Watch.,Globe_Shakespeare/3h6.xml
-riv.,Riv.,Globe_Shakespeare/3h6.xml
-hunt.,Hunt.,Globe_Shakespeare/3h6.xml
-lieu.,Lieu.,Globe_Shakespeare/3h6.xml
+stan.,Stan.,Globe_Shakespeare/2h6.xml
+scales.,Scales.,Globe_Shakespeare/2h6.xml
+simp.,Simp.,Globe_Shakespeare/2h6.xml
 may.,May.,Globe_Shakespeare/3h6.xml
-sold.,Sold.,Globe_Shakespeare/3h6.xml
+oxf.,Oxf.,Globe_Shakespeare/3h6.xml
 all,All.,Globe_Shakespeare/3h6.xml
 first-mess.,First Mess.,Globe_Shakespeare/3h6.xml
+fath.,Fath.,Globe_Shakespeare/3h6.xml
+tut.,Tut.,Globe_Shakespeare/3h6.xml
+l.-grey.,Q. Eliz.,Globe_Shakespeare/3h6.xml
+exe.,Exe.,Globe_Shakespeare/3h6.xml
+clif.,Clif.,Globe_Shakespeare/3h6.xml
+nob.,Nob.,Globe_Shakespeare/3h6.xml
+son.,Son.,Globe_Shakespeare/3h6.xml
+war.,War.,Globe_Shakespeare/3h6.xml
+q.-mar.,Q. Mar.,Globe_Shakespeare/3h6.xml
+york.,York.,Globe_Shakespeare/3h6.xml
+riv.,Riv.,Globe_Shakespeare/3h6.xml
+sir-john.,Sir John.,Globe_Shakespeare/3h6.xml
+k.-hen.,K. Hen.,Globe_Shakespeare/3h6.xml
+hunt.,Hunt.,Globe_Shakespeare/3h6.xml
+second-watch.,Second Watch.,Globe_Shakespeare/3h6.xml
+north.,North.,Globe_Shakespeare/3h6.xml
+post.,Post.,Globe_Shakespeare/3h6.xml
+k.-lew.,K. Lew.,Globe_Shakespeare/3h6.xml
+prince.,Prince.,Globe_Shakespeare/3h6.xml
+first-keep.,First Keep.,Globe_Shakespeare/3h6.xml
+rich.,Rich.,Globe_Shakespeare/3h6.xml
+hast.,Hast.,Globe_Shakespeare/3h6.xml
+sold.,Sold.,Globe_Shakespeare/3h6.xml
+clar.,Clar.,Globe_Shakespeare/3h6.xml
+first-watch.,First Watch.,Globe_Shakespeare/3h6.xml
+som.,Som.,Globe_Shakespeare/3h6.xml
+mont.,Mont.,Globe_Shakespeare/3h6.xml
+k.-edw.,K. Edw.,Globe_Shakespeare/3h6.xml
+mess.,Mess.,Globe_Shakespeare/3h6.xml
+sec.-keep.,Sec. Keep.,Globe_Shakespeare/3h6.xml
+lieu.,Lieu.,Globe_Shakespeare/3h6.xml
+glou.,Glou.,Globe_Shakespeare/3h6.xml
+bona.,Bona.,Globe_Shakespeare/3h6.xml
+edw.,Edw.,Globe_Shakespeare/3h6.xml
 second-mess.,Second Mess.,Globe_Shakespeare/3h6.xml
-leon.,Leon.,Globe_Shakespeare/ado.xml
-mess.,Mess.,Globe_Shakespeare/ado.xml
-beat.,Beat.,Globe_Shakespeare/ado.xml
-hero.,Hero.,Globe_Shakespeare/ado.xml
-d.-pedro.,D. Pedro.,Globe_Shakespeare/ado.xml
-bene.,Bene.,Globe_Shakespeare/ado.xml
-d.-john.,D. John.,Globe_Shakespeare/ado.xml
-claud.,Claud.,Globe_Shakespeare/ado.xml
-ant.,Ant.,Globe_Shakespeare/ado.xml
-con.,Con.,Globe_Shakespeare/ado.xml
-bora.,Bora.,Globe_Shakespeare/ado.xml
-balth.,Balth.,Globe_Shakespeare/ado.xml
-marg.,Marg.,Globe_Shakespeare/ado.xml
-urs.,Urs.,Globe_Shakespeare/ado.xml
-boy.,Boy.,Globe_Shakespeare/ado.xml
-dog.,Dog.,Globe_Shakespeare/ado.xml
-verg.,Verg.,Globe_Shakespeare/ado.xml
-first-watch.,First Watch.,Globe_Shakespeare/ado.xml
+west.,West.,Globe_Shakespeare/3h6.xml
+third-watch.,Third Watch.,Globe_Shakespeare/3h6.xml
+geo.,Geo.,Globe_Shakespeare/3h6.xml
+norf.,Norf.,Globe_Shakespeare/3h6.xml
+rut.,Rut.,Globe_Shakespeare/3h6.xml
 sec.-watch.,Sec. Watch.,Globe_Shakespeare/ado.xml
-watch.,Watch.,Globe_Shakespeare/ado.xml
-friar.,Friar.,Globe_Shakespeare/ado.xml
+boy.,Boy.,Globe_Shakespeare/ado.xml
 sex.,Sex.,Globe_Shakespeare/ado.xml
+bene.,Bene.,Globe_Shakespeare/ado.xml
+marg.,Marg.,Globe_Shakespeare/ado.xml
 con. bora.,Con. Bora.,Globe_Shakespeare/ado.xml
+watch.,Watch.,Globe_Shakespeare/ado.xml
+leon.,Leon.,Globe_Shakespeare/ado.xml
+first-watch.,First Watch.,Globe_Shakespeare/ado.xml
+d.-pedro.,D. Pedro.,Globe_Shakespeare/ado.xml
+beat.,Beat.,Globe_Shakespeare/ado.xml
+ant.,Ant.,Globe_Shakespeare/ado.xml
+mess.,Mess.,Globe_Shakespeare/ado.xml
+friar.,Friar.,Globe_Shakespeare/ado.xml
+verg.,Verg.,Globe_Shakespeare/ado.xml
+con.,Con.,Globe_Shakespeare/ado.xml
+dog.,Dog.,Globe_Shakespeare/ado.xml
+claud.,Claud.,Globe_Shakespeare/ado.xml
+bora.,Bora.,Globe_Shakespeare/ado.xml
+hero.,Hero.,Globe_Shakespeare/ado.xml
 a-lord.,A Lord.,Globe_Shakespeare/ado.xml
-ant-33,Phi.,Globe_Shakespeare/ant.xml
-ant-9,Cleo.,Globe_Shakespeare/ant.xml
-ant-26,Ant.,Globe_Shakespeare/ant.xml
-ant-5,First Att.,Globe_Shakespeare/ant.xml
-ant-12,Dem.,Globe_Shakespeare/ant.xml
-ant-8,Char.,Globe_Shakespeare/ant.xml
-ant-2,Alex.,Globe_Shakespeare/ant.xml
-ant-45,Sooth.,Globe_Shakespeare/ant.xml
-ant-16,Eno.,Globe_Shakespeare/ant.xml
-ant-21,Iras.,Globe_Shakespeare/ant.xml
-ant-30,Mess.,Globe_Shakespeare/ant.xml
-ant-32,Cs.,Globe_Shakespeare/ant.xml
-ant-23,Lep.,Globe_Shakespeare/ant.xml
-ant-27,Mar.,Globe_Shakespeare/ant.xml
-ant-34,Pom.,Globe_Shakespeare/ant.xml
-ant-29,Mene.,Globe_Shakespeare/ant.xml
-ant-28,Men.,Globe_Shakespeare/ant.xml
-ant-48,Var.,Globe_Shakespeare/ant.xml
-ant-25,Mec.,Globe_Shakespeare/ant.xml
-ant-1,Agr.,Globe_Shakespeare/ant.xml
-ant-31,Oct.,Globe_Shakespeare/ant.xml
-ant-25 ant-1,"Mec., Agr.",Globe_Shakespeare/ant.xml
-ant-32 ant-26 ant-23,Cs. Ant. Lep.,Globe_Shakespeare/ant.xml
-ant-41,First Serv.,Globe_Shakespeare/ant.xml
-ant-49,Ven.,Globe_Shakespeare/ant.xml
-ant-43,Sil.,Globe_Shakespeare/ant.xml
-ant-17,Eros.,Globe_Shakespeare/ant.xml
-ant-6,Can.,Globe_Shakespeare/ant.xml
-ant-44,Third Sold.,Globe_Shakespeare/ant.xml
-ant-46,Taur.,Globe_Shakespeare/ant.xml
-ant-37,Scar.,Globe_Shakespeare/ant.xml
-ant-14,Dol.,Globe_Shakespeare/ant.xml
-ant-18,Euph.,Globe_Shakespeare/ant.xml
-ant-47,Thyr.,Globe_Shakespeare/ant.xml
-ant-7,Capt.,Globe_Shakespeare/ant.xml
-ant-20,First Guard.,Globe_Shakespeare/ant.xml
+urs.,Urs.,Globe_Shakespeare/ado.xml
+balth.,Balth.,Globe_Shakespeare/ado.xml
+d.-john.,D. John.,Globe_Shakespeare/ado.xml
 ant-11,Der.,Globe_Shakespeare/ant.xml
-ant-13,Dio.,Globe_Shakespeare/ant.xml
-ant-15,Egyp.,Globe_Shakespeare/ant.xml
-ant-35,Pro.,Globe_Shakespeare/ant.xml
 ant-19,Gal.,Globe_Shakespeare/ant.xml
+ant-13,Dio.,Globe_Shakespeare/ant.xml
+ant-12,Dem.,Globe_Shakespeare/ant.xml
+ant-15,Egyp.,Globe_Shakespeare/ant.xml
+ant-14,Dol.,Globe_Shakespeare/ant.xml
+ant-17,Eros.,Globe_Shakespeare/ant.xml
+ant-16,Eno.,Globe_Shakespeare/ant.xml
+ant-33,Phi.,Globe_Shakespeare/ant.xml
+ant-32,Cs.,Globe_Shakespeare/ant.xml
+ant-31,Oct.,Globe_Shakespeare/ant.xml
+ant-30,Mess.,Globe_Shakespeare/ant.xml
+ant-37,Scar.,Globe_Shakespeare/ant.xml
+ant-35,Pro.,Globe_Shakespeare/ant.xml
+ant-34,Pom.,Globe_Shakespeare/ant.xml
 ant-39,Sel.,Globe_Shakespeare/ant.xml
+ant-9,Cleo.,Globe_Shakespeare/ant.xml
+ant-8,Char.,Globe_Shakespeare/ant.xml
+ant-32 ant-26 ant-23,Cs. Ant. Lep.,Globe_Shakespeare/ant.xml
+ant-1,Agr.,Globe_Shakespeare/ant.xml
+ant-25 ant-1,"Mec., Agr.",Globe_Shakespeare/ant.xml
+ant-2,Alex.,Globe_Shakespeare/ant.xml
+ant-5,First Att.,Globe_Shakespeare/ant.xml
+ant-7,Capt.,Globe_Shakespeare/ant.xml
+ant-6,Can.,Globe_Shakespeare/ant.xml
+ant-18,Euph.,Globe_Shakespeare/ant.xml
+ant-28,Men.,Globe_Shakespeare/ant.xml
+ant-29,Mene.,Globe_Shakespeare/ant.xml
+ant-25,Mec.,Globe_Shakespeare/ant.xml
+ant-26,Ant.,Globe_Shakespeare/ant.xml
+ant-27,Mar.,Globe_Shakespeare/ant.xml
+ant-20,First Guard.,Globe_Shakespeare/ant.xml
+ant-21,Iras.,Globe_Shakespeare/ant.xml
+ant-23,Lep.,Globe_Shakespeare/ant.xml
 ant-10,Clown.,Globe_Shakespeare/ant.xml
-aww-2,Count.,Globe_Shakespeare/aww.xml
-aww-1,Ber.,Globe_Shakespeare/aww.xml
-aww-4,Laf.,Globe_Shakespeare/aww.xml
-aww-3,Hel.,Globe_Shakespeare/aww.xml
-aww-6,Par.,Globe_Shakespeare/aww.xml
-aww-5,Page.,Globe_Shakespeare/aww.xml
-aww-9,King.,Globe_Shakespeare/aww.xml
+ant-48,Var.,Globe_Shakespeare/ant.xml
+ant-49,Ven.,Globe_Shakespeare/ant.xml
+ant-46,Taur.,Globe_Shakespeare/ant.xml
+ant-47,Thyr.,Globe_Shakespeare/ant.xml
+ant-44,Third Sold.,Globe_Shakespeare/ant.xml
+ant-45,Sooth.,Globe_Shakespeare/ant.xml
+ant-43,Sil.,Globe_Shakespeare/ant.xml
+ant-41,First Serv.,Globe_Shakespeare/ant.xml
+aww-19,Mar.,Globe_Shakespeare/aww.xml
+aww-18,Dia.,Globe_Shakespeare/aww.xml
+aww-25,Gent.,Globe_Shakespeare/aww.xml
 aww-11,First Lord.,Globe_Shakespeare/aww.xml
 aww-13,Stew.,Globe_Shakespeare/aww.xml
 aww-12,Clo.,Globe_Shakespeare/aww.xml
-aww-0,All.,Globe_Shakespeare/aww.xml
-aww-16,Duke.,Globe_Shakespeare/aww.xml
 aww-26,Sec. Gent.,Globe_Shakespeare/aww.xml
-aww-21,Wid.,Globe_Shakespeare/aww.xml
-aww-18,Dia.,Globe_Shakespeare/aww.xml
-aww-19,Mar.,Globe_Shakespeare/aww.xml
+aww-16,Duke.,Globe_Shakespeare/aww.xml
+aww-1,Ber.,Globe_Shakespeare/aww.xml
+aww-0,All.,Globe_Shakespeare/aww.xml
+aww-3,Hel.,Globe_Shakespeare/aww.xml
+aww-2,Count.,Globe_Shakespeare/aww.xml
+aww-5,Page.,Globe_Shakespeare/aww.xml
+aww-4,Laf.,Globe_Shakespeare/aww.xml
 aww-22,First Sold.,Globe_Shakespeare/aww.xml
+aww-6,Par.,Globe_Shakespeare/aww.xml
+aww-9,King.,Globe_Shakespeare/aww.xml
 aww-24,Serv.,Globe_Shakespeare/aww.xml
-aww-25,Gent.,Globe_Shakespeare/aww.xml
+aww-21,Wid.,Globe_Shakespeare/aww.xml
+first-page,First Page.,Globe_Shakespeare/ayl.xml
+for.,For.,Globe_Shakespeare/ayl.xml
+cor.,Cor.,Globe_Shakespeare/ayl.xml
+phe.,Phe.,Globe_Shakespeare/ayl.xml
+duke-s.,Duke S.,Globe_Shakespeare/ayl.xml
+sir-oli.,Sir Oli.,Globe_Shakespeare/ayl.xml
 orl.,Orl.,Globe_Shakespeare/ayl.xml
-adam.,Adam.,Globe_Shakespeare/ayl.xml
+sec.-page,Sec. Page.,Globe_Shakespeare/ayl.xml
+sil.,Sil.,Globe_Shakespeare/ayl.xml
+ami.,Ami.,Globe_Shakespeare/ayl.xml
+sec.-lord.,Sec. Lord.,Globe_Shakespeare/ayl.xml
+jaq.,Jaq.,Globe_Shakespeare/ayl.xml
+first-lord.,A Lord.,Globe_Shakespeare/ayl.xml
 oli.,Oli.,Globe_Shakespeare/ayl.xml
 den.,Den.,Globe_Shakespeare/ayl.xml
-cha.,Cha.,Globe_Shakespeare/ayl.xml
-cel.,Cel.,Globe_Shakespeare/ayl.xml
-ros.,Ros.,Globe_Shakespeare/ayl.xml
+adam.,Adam.,Globe_Shakespeare/ayl.xml
 touch.,Touch.,Globe_Shakespeare/ayl.xml
 le-beau.,Le Beau.,Globe_Shakespeare/ayl.xml
-duke-f.,Duke F.,Globe_Shakespeare/ayl.xml
-duke-s.,Duke S.,Globe_Shakespeare/ayl.xml
-ami.,Ami.,Globe_Shakespeare/ayl.xml
-first-lord.,A Lord.,Globe_Shakespeare/ayl.xml
-sec.-lord.,Sec. Lord.,Globe_Shakespeare/ayl.xml
-cor.,Cor.,Globe_Shakespeare/ayl.xml
-sil.,Sil.,Globe_Shakespeare/ayl.xml
-jaq.,Jaq.,Globe_Shakespeare/ayl.xml
+cha.,Cha.,Globe_Shakespeare/ayl.xml
 aud.,Aud.,Globe_Shakespeare/ayl.xml
-sir-oli.,Sir Oli.,Globe_Shakespeare/ayl.xml
-phe.,Phe.,Globe_Shakespeare/ayl.xml
-for.,For.,Globe_Shakespeare/ayl.xml
-will.,Will.,Globe_Shakespeare/ayl.xml
-first-page,First Page.,Globe_Shakespeare/ayl.xml
-sec.-page,Sec. Page.,Globe_Shakespeare/ayl.xml
-hym.,Hym.,Globe_Shakespeare/ayl.xml
 jaq.-de-b.,Jaq. de B.,Globe_Shakespeare/ayl.xml
-cor-7,Sec. Cit.,Globe_Shakespeare/cor.xml
-cor-20,Men.,Globe_Shakespeare/cor.xml
-cor-6,Cor.,Globe_Shakespeare/cor.xml
-cor-21,Sec. Mess.,Globe_Shakespeare/cor.xml
-cor-28,First Sen.,Globe_Shakespeare/cor.xml
-cor-8,Com.,Globe_Shakespeare/cor.xml
-cor-33,Tit.,Globe_Shakespeare/cor.xml
-cor-31,Sic.,Globe_Shakespeare/cor.xml
-cor-13,Bru.,Globe_Shakespeare/cor.xml
+hym.,Hym.,Globe_Shakespeare/ayl.xml
+ros.,Ros.,Globe_Shakespeare/ayl.xml
+duke-f.,Duke F.,Globe_Shakespeare/ayl.xml
+cel.,Cel.,Globe_Shakespeare/ayl.xml
+will.,Will.,Globe_Shakespeare/ayl.xml
 cor-29,First Sen.,Globe_Shakespeare/cor.xml
-cor-4,Auf.,Globe_Shakespeare/cor.xml
-cor-39,Vol.,Globe_Shakespeare/cor.xml
-cor-37,Vir.,Globe_Shakespeare/cor.xml
-cor-11,Gent.,Globe_Shakespeare/cor.xml
-cor-35,Val.,Globe_Shakespeare/cor.xml
-cor-15,Lart.,Globe_Shakespeare/cor.xml
-cor-32,First Sol.,Globe_Shakespeare/cor.xml
+cor-28,First Sen.,Globe_Shakespeare/cor.xml
+cor-21,Sec. Mess.,Globe_Shakespeare/cor.xml
+cor-20,Men.,Globe_Shakespeare/cor.xml
+cor-22,Rom.,Globe_Shakespeare/cor.xml
+cor-25,A Patrician.,Globe_Shakespeare/cor.xml
+cor-24,Off.,Globe_Shakespeare/cor.xml
 cor-27,Third Rom.,Globe_Shakespeare/cor.xml
 cor-26,Sec. Rom.,Globe_Shakespeare/cor.xml
-cor-16,Lieu.,Globe_Shakespeare/cor.xml
-cor-31 cor-13,Both Tri.,Globe_Shakespeare/cor.xml
-cor-39 cor-37,Vol. Vir.,Globe_Shakespeare/cor.xml
-cor-12,Herald.,Globe_Shakespeare/cor.xml
-cor-24,Off.,Globe_Shakespeare/cor.xml
-cor-2,d.,Globe_Shakespeare/cor.xml
-cor-25,A Patrician.,Globe_Shakespeare/cor.xml
-cor-22,Rom.,Globe_Shakespeare/cor.xml
-cor-1,Vols.,Globe_Shakespeare/cor.xml
 cor-7a,Cit.,Globe_Shakespeare/cor.xml
-cor-30,Third Serv.,Globe_Shakespeare/cor.xml
-cor-40,Sec. Sen.,Globe_Shakespeare/cor.xml
-cor-19,Young Mar.,Globe_Shakespeare/cor.xml
 cor-9,All Consp.,Globe_Shakespeare/cor.xml
+cor-39 cor-37,Vol. Vir.,Globe_Shakespeare/cor.xml
+cor-15,Lart.,Globe_Shakespeare/cor.xml
+cor-16,Lieu.,Globe_Shakespeare/cor.xml
 cor-17,Sec. Lord.,Globe_Shakespeare/cor.xml
+cor-11,Gent.,Globe_Shakespeare/cor.xml
+cor-12,Herald.,Globe_Shakespeare/cor.xml
+cor-13,Bru.,Globe_Shakespeare/cor.xml
+cor-19,Young Mar.,Globe_Shakespeare/cor.xml
+cor-39,Vol.,Globe_Shakespeare/cor.xml
+cor-32,First Sol.,Globe_Shakespeare/cor.xml
+cor-33,Tit.,Globe_Shakespeare/cor.xml
+cor-30,Third Serv.,Globe_Shakespeare/cor.xml
+cor-31,Sic.,Globe_Shakespeare/cor.xml
+cor-37,Vir.,Globe_Shakespeare/cor.xml
+cor-35,Val.,Globe_Shakespeare/cor.xml
+cor-2,d.,Globe_Shakespeare/cor.xml
+cor-1,Vols.,Globe_Shakespeare/cor.xml
+cor-6,Cor.,Globe_Shakespeare/cor.xml
+cor-7,Sec. Cit.,Globe_Shakespeare/cor.xml
+cor-4,Auf.,Globe_Shakespeare/cor.xml
+cor-8,Com.,Globe_Shakespeare/cor.xml
+cor-40,Sec. Sen.,Globe_Shakespeare/cor.xml
+cor-31 cor-13,Both Tri.,Globe_Shakespeare/cor.xml
+curt,Curtezane,Christopher_Marlowe/marl.jew.xml
+slav,,Christopher_Marlowe/marl.jew.xml
 bara,Barabas,Christopher_Marlowe/marl.jew.xml
-mer1,,Christopher_Marlowe/marl.jew.xml
-mer2,2. Merchant,Christopher_Marlowe/marl.jew.xml
-jew1,1. Jew,Christopher_Marlowe/marl.jew.xml
-jew2,2 Jew,Christopher_Marlowe/marl.jew.xml
-jew3,,Christopher_Marlowe/marl.jew.xml
-gove,Governor,Christopher_Marlowe/marl.jew.xml
+kni1,,Christopher_Marlowe/marl.jew.xml
+offi,Officers,Christopher_Marlowe/marl.jew.xml
+lodo,Lodowicke,Christopher_Marlowe/marl.jew.xml
+kni2,2. Knight,Christopher_Marlowe/marl.jew.xml
+abig,Abigall,Christopher_Marlowe/marl.jew.xml
 bass,,Christopher_Marlowe/marl.jew.xml
 caly,Calymath,Christopher_Marlowe/marl.jew.xml
-offi,Officers,Christopher_Marlowe/marl.jew.xml
-kni1,,Christopher_Marlowe/marl.jew.xml
-kni2,2. Knight,Christopher_Marlowe/marl.jew.xml
-read,Reader,Christopher_Marlowe/marl.jew.xml
-abig,Abigall,Christopher_Marlowe/marl.jew.xml
-fry1,,Christopher_Marlowe/marl.jew.xml
-abba,Abbasse,Christopher_Marlowe/marl.jew.xml
-fry2,,Christopher_Marlowe/marl.jew.xml
+ithi,Ithimore,Christopher_Marlowe/marl.jew.xml
+mess,Messenger,Christopher_Marlowe/marl.jew.xml
+mate,Mater,Christopher_Marlowe/marl.jew.xml
+gove,Governor,Christopher_Marlowe/marl.jew.xml
+pili,Pilia-borza,Christopher_Marlowe/marl.jew.xml
+carp,Carpenter,Christopher_Marlowe/marl.jew.xml
 math,Mathias,Christopher_Marlowe/marl.jew.xml
-lodo,Lodowicke,Christopher_Marlowe/marl.jew.xml
-bosc,Bosco,Christopher_Marlowe/marl.jew.xml
 off1,,Christopher_Marlowe/marl.jew.xml
 off2,2. Officer,Christopher_Marlowe/marl.jew.xml
-slav,,Christopher_Marlowe/marl.jew.xml
-ithi,Ithimore,Christopher_Marlowe/marl.jew.xml
-mate,Mater,Christopher_Marlowe/marl.jew.xml
-curt,Curtezane,Christopher_Marlowe/marl.jew.xml
-pili,Pilia-borza,Christopher_Marlowe/marl.jew.xml
-mess,Messenger,Christopher_Marlowe/marl.jew.xml
+jew2,2 Jew,Christopher_Marlowe/marl.jew.xml
+jew3,,Christopher_Marlowe/marl.jew.xml
+abba,Abbasse,Christopher_Marlowe/marl.jew.xml
+jew1,1. Jew,Christopher_Marlowe/marl.jew.xml
+read,Reader,Christopher_Marlowe/marl.jew.xml
+mer1,,Christopher_Marlowe/marl.jew.xml
+mer2,2. Merchant,Christopher_Marlowe/marl.jew.xml
+fry2,,Christopher_Marlowe/marl.jew.xml
+fry1,,Christopher_Marlowe/marl.jew.xml
+bosc,Bosco,Christopher_Marlowe/marl.jew.xml
 serv,Servant,Christopher_Marlowe/marl.jew.xml
-carp,Carpenter,Christopher_Marlowe/marl.jew.xml
-king,King,Christopher_Marlowe/marl.massacre.xml
 nava,Navarre,Christopher_Marlowe/marl.massacre.xml
-quee,,Christopher_Marlowe/marl.massacre.xml
-marg,Queene Margaret,Christopher_Marlowe/marl.massacre.xml
-admi,Admirall,Christopher_Marlowe/marl.massacre.xml
-cond,Condy,Christopher_Marlowe/marl.massacre.xml
-guis,Guise,Christopher_Marlowe/marl.massacre.xml
-poth,Pothecarie,Christopher_Marlowe/marl.massacre.xml
-sold,Souldier,Christopher_Marlowe/marl.massacre.xml
 old,Old Queene,Christopher_Marlowe/marl.massacre.xml
+bart,Bartus,Christopher_Marlowe/marl.massacre.xml
 anjo,Anjoy,Christopher_Marlowe/marl.massacre.xml
-adman,Man,Christopher_Marlowe/marl.massacre.xml
+cond,Condy,Christopher_Marlowe/marl.massacre.xml
+murd3,3.,Christopher_Marlowe/marl.massacre.xml
 duma,Dumaine,Christopher_Marlowe/marl.massacre.xml
 gonz,Gonzago,Christopher_Marlowe/marl.massacre.xml
-rete,Retes,Christopher_Marlowe/marl.massacre.xml
-moun,Mountsorrell,Christopher_Marlowe/marl.massacre.xml
-lore,Loreine,Christopher_Marlowe/marl.massacre.xml
-sero,,Christopher_Marlowe/marl.massacre.xml
-ramu,Ramus,Christopher_Marlowe/marl.massacre.xml
+yong,Yong Guise,Christopher_Marlowe/marl.massacre.xml
 tale,Taleus,Christopher_Marlowe/marl.massacre.xml
+marg,Queene Margaret,Christopher_Marlowe/marl.massacre.xml
+quee,,Christopher_Marlowe/marl.massacre.xml
+rete,Retes,Christopher_Marlowe/marl.massacre.xml
+capt,Captaine,Christopher_Marlowe/marl.massacre.xml
+prot,Protestant,Christopher_Marlowe/marl.massacre.xml
+murd1,1.,Christopher_Marlowe/marl.massacre.xml
+cutp,Cutpurse,Christopher_Marlowe/marl.massacre.xml
+murd2,2.,Christopher_Marlowe/marl.massacre.xml
+maid,Maid,Christopher_Marlowe/marl.massacre.xml
+muge,Mugeroun,Christopher_Marlowe/marl.massacre.xml
+eper,Epernoune,Christopher_Marlowe/marl.massacre.xml
+poth,Pothecarie,Christopher_Marlowe/marl.massacre.xml
+lore,Loreine,Christopher_Marlowe/marl.massacre.xml
+joye,Joyeux,Christopher_Marlowe/marl.massacre.xml
+surg,Surgeon,Christopher_Marlowe/marl.massacre.xml
+ples,Pleshe,Christopher_Marlowe/marl.massacre.xml
+admi,Admirall,Christopher_Marlowe/marl.massacre.xml
+mess,Messenger,Christopher_Marlowe/marl.massacre.xml
+guis,Guise,Christopher_Marlowe/marl.massacre.xml
+sold,Souldier,Christopher_Marlowe/marl.massacre.xml
+moun,Mountsorrell,Christopher_Marlowe/marl.massacre.xml
+frie,Frier,Christopher_Marlowe/marl.massacre.xml
+duch,Duchesse,Christopher_Marlowe/marl.massacre.xml
+card,Cardinall,Christopher_Marlowe/marl.massacre.xml
+king,King,Christopher_Marlowe/marl.massacre.xml
+ramu,Ramus,Christopher_Marlowe/marl.massacre.xml
 lor1,1.,Christopher_Marlowe/marl.massacre.xml
 lor2,2.,Christopher_Marlowe/marl.massacre.xml
-card,Cardinall,Christopher_Marlowe/marl.massacre.xml
-prot,Protestant,Christopher_Marlowe/marl.massacre.xml
-eper,Epernoune,Christopher_Marlowe/marl.massacre.xml
-ples,Pleshe,Christopher_Marlowe/marl.massacre.xml
-muge,Mugeroun,Christopher_Marlowe/marl.massacre.xml
-cutp,Cutpurse,Christopher_Marlowe/marl.massacre.xml
-duch,Duchesse,Christopher_Marlowe/marl.massacre.xml
-maid,Maid,Christopher_Marlowe/marl.massacre.xml
-bart,Bartus,Christopher_Marlowe/marl.massacre.xml
-mess,Messenger,Christopher_Marlowe/marl.massacre.xml
-joye,Joyeux,Christopher_Marlowe/marl.massacre.xml
-capt,Captaine,Christopher_Marlowe/marl.massacre.xml
-murd1,1.,Christopher_Marlowe/marl.massacre.xml
-murd2,2.,Christopher_Marlowe/marl.massacre.xml
-murd3,3.,Christopher_Marlowe/marl.massacre.xml
-yong,Yong Guise,Christopher_Marlowe/marl.massacre.xml
-frie,Frier,Christopher_Marlowe/marl.massacre.xml
-surg,Surgeon,Christopher_Marlowe/marl.massacre.xml
+adman,Man,Christopher_Marlowe/marl.massacre.xml
+sero,,Christopher_Marlowe/marl.massacre.xml

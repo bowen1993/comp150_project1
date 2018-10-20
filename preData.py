@@ -23,6 +23,8 @@ def get_dialogs(filename):
                 text_list = []
                 for text in p.itertext():
                     text = text.strip(' \t\n')
+                    text = text.replace('\r\n', " ")
+                    print(text)
                     text_list.append(text)
                 texts[speaker].append(' '.join(text_list))
                 
