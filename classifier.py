@@ -51,7 +51,7 @@ def train_ngram_model(data,
                       epochs=1000,
                       batch_size=128,
                       layers=3,
-                      units=32,
+                      units=64,
                       dropout_rate=0.2):
     """Trains n-gram model on the given dataset.
 

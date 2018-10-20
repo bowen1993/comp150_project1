@@ -31,29 +31,39 @@ def loadTagMap(filename):
     with open(filename, 'r') as tag_file:
         csv_reader = csv.reader(tag_file);
         for row in csv_reader:
-            tagMap[row[0]] = row[1]
+            if len(row) > 2:
+                tagMap[row[0]] = 0 if row[-1] == 'MALE' else 1
     return tagMap
 
-def loadTrainData(tagMap, data):
+def loadTrainData(dirname, label):
     trains = []
-    for item in data:
-        if item[1] in tagMap:
-            trains.append((' '.join(item[0]), int(tagMap[item[1]])))
-    shuffle(trains)
-    return map(list, zip(*trains))
+    labels = []
+    for d in os.listdir(dirname):
+        if d.endswith('txt'):
+            with open(os.path.join(dirname, d)) as f:
+                trains.append(f.read())
+                labels.append(label)
+    
+    return trains, labels
 
 def main():
     #load data
     print("load data in")
-    tagMap = loadTagMap('../gender_tag.csv')
+    tagMap = loadTagMap('./Comp150 - filtered_name_id.csv')
     data = DataReader('data')
-    trains, labels = loadTrainData(tagMap, data)
-    train_data = trains[:-80]
-    val_data = trains[-80:]
-    train_label = labels[:-80]
-    val_label = labels[-80:]
+    male_trains, male_labels = loadTrainData('data/train/male', 0)
+    female_trains, female_labels = loadTrainData('data/train/female', 1)
+
+    male_val, male_val_labels = loadTrainData('data/test/male', 0)
+    female_val, female_val_labels = loadTrainData('data/test/female', 1)
+    
+    train_data = male_trains + female_trains
+    train_label = male_labels + female_labels
+    val_train = male_val + female_val
+    val_label = male_val_labels + female_val_labels
+    print(len(train_data), len(train_label ))
     print('train & evaluate')
-    acc, loss = train_ngram_model(((train_data, train_label), (val_data, val_label)))
+    acc, loss = train_ngram_model(((train_data, train_label), (val_train, val_label)))
 
 
 main()
