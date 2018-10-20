@@ -48,10 +48,10 @@ def main():
     tagMap = loadTagMap('../gender_tag.csv')
     data = DataReader('data')
     trains, labels = loadTrainData(tagMap, data)
-    train_data = trains[:-100]
-    val_data = trains[-100:]
-    train_label = labels[:-100]
-    val_label = labels[-100:]
+    train_data = trains[:-80]
+    val_data = trains[-80:]
+    train_label = labels[:-80]
+    val_label = labels[-80:]
     print('train & evaluate')
     acc, loss = train_ngram_model(((train_data, train_label), (val_data, val_label)))
 

@@ -3,6 +3,7 @@ from tensorflow.python.keras import models
 from tensorflow.python.keras.layers import Dense
 from tensorflow.python.keras.layers import Dropout
 from TFIDFEncode import ngram_vectorize
+import datetime
 
 def _get_last_layer_units_and_activation(num_classes):
     """Gets the # units and activation function for the last network layer.
@@ -103,7 +104,6 @@ def train_ngram_model(data,
     # not decrease in two consecutive tries, stop training.
     callbacks = [tf.keras.callbacks.EarlyStopping(
         monitor='val_loss', patience=2)]
-    print(x_train, train_labels)
     # Train and validate model.
     history = model.fit(
             x_train,
@@ -120,6 +120,5 @@ def train_ngram_model(data,
             acc=history['val_acc'][-1], loss=history['val_loss'][-1]))
 
     # Save model.
-    model.save('model.h5')
-    model.summary()
+    model.save('model_%s_%lf.h5' % (datetime.datetime.now().strftime("%m-%d-%H:%M"), history['val_acc'][-1]))
     return history['val_acc'][-1], history['val_loss'][-1]
