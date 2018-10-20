@@ -309,25 +309,25 @@ ant-35,Pro.,Globe_Shakespeare/ant.xml,
 ant-19,Gal.,Globe_Shakespeare/ant.xml,
 ant-39,Sel.,Globe_Shakespeare/ant.xml,
 ant-10,Clown.,Globe_Shakespeare/ant.xml,
-aww-2,Count.,Globe_Shakespeare/aww.xml,
-aww-1,Ber.,Globe_Shakespeare/aww.xml,
-aww-4,Laf.,Globe_Shakespeare/aww.xml,
-aww-3,Hel.,Globe_Shakespeare/aww.xml,
-aww-6,Par.,Globe_Shakespeare/aww.xml,
-aww-5,Page.,Globe_Shakespeare/aww.xml,
-aww-9,King.,Globe_Shakespeare/aww.xml,
-aww-11,First Lord.,Globe_Shakespeare/aww.xml,
-aww-13,Stew.,Globe_Shakespeare/aww.xml,
+aww-2,Count.,Globe_Shakespeare/aww.xml,FEMALE
+aww-1,Ber.,Globe_Shakespeare/aww.xml,MALE
+aww-4,Laf.,Globe_Shakespeare/aww.xml,MALE
+aww-3,Hel.,Globe_Shakespeare/aww.xml,FEMALE
+aww-6,Par.,Globe_Shakespeare/aww.xml,MALE
+aww-5,Page.,Globe_Shakespeare/aww.xml,FEMALE
+aww-9,King.,Globe_Shakespeare/aww.xml,MALE
+aww-11,First Lord.,Globe_Shakespeare/aww.xml,MALE
+aww-13,Stew.,Globe_Shakespeare/aww.xml,MALE
 aww-12,Clo.,Globe_Shakespeare/aww.xml,
 aww-0,All.,Globe_Shakespeare/aww.xml,
-aww-16,Duke.,Globe_Shakespeare/aww.xml,
-aww-26,Sec. Gent.,Globe_Shakespeare/aww.xml,
-aww-21,Wid.,Globe_Shakespeare/aww.xml,
-aww-18,Dia.,Globe_Shakespeare/aww.xml,
-aww-19,Mar.,Globe_Shakespeare/aww.xml,
-aww-22,First Sold.,Globe_Shakespeare/aww.xml,
+aww-16,Duke.,Globe_Shakespeare/aww.xml,MALE
+aww-26,Sec. Gent.,Globe_Shakespeare/aww.xml,MALE
+aww-21,Wid.,Globe_Shakespeare/aww.xml,FEMALE
+aww-18,Dia.,Globe_Shakespeare/aww.xml,FEMALE
+aww-19,Mar.,Globe_Shakespeare/aww.xml,FEMALE
+aww-22,First Sold.,Globe_Shakespeare/aww.xml,MALE
 aww-24,Serv.,Globe_Shakespeare/aww.xml,
-aww-25,Gent.,Globe_Shakespeare/aww.xml,
+aww-25,Gent.,Globe_Shakespeare/aww.xml,MALE
 orl.,Orl.,Globe_Shakespeare/ayl.xml,
 adam.,Adam.,Globe_Shakespeare/ayl.xml,
 oli.,Oli.,Globe_Shakespeare/ayl.xml,
