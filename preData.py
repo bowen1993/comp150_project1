@@ -4,6 +4,7 @@ from collections import defaultdict
 import json
 import os
 import csv
+import nltk
 
 # get all dialogs for xml file. extract both role id and text
 def get_dialogs(filename):
