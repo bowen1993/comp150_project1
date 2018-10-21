@@ -50,7 +50,6 @@ def main():
     #load data
     print("load data in")
     tagMap = loadTagMap('./Comp150 - filtered_name_id.csv')
-    data = DataReader('data')
     male_trains, male_labels = loadTrainData('data/train/male', 0)
     female_trains, female_labels = loadTrainData('data/train/female', 1)
 
