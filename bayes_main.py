@@ -32,14 +32,17 @@ def loadTrainData(dirname, label):
 
 def main():
     print('load data')
+    #load data
     tagMap = loadTagMap('./Comp150 - filtered_name_id.csv')
     male_trains, male_labels = loadTrainData('data/train/male', 0)
     female_trains, female_labels = loadTrainData('data/train/female', 1)
+    # put all data together
     train_data = male_trains + female_trains
     train_label = male_labels + female_labels
     trains = []
     for i in range(len(train_data)):
         trains.append((train_data[i], train_label[i]))
+    # init & train naive bayes & test with 10 fold cross validation
     trainer = bayes.BayesClassifer(1)
     average_performance, performances = stratified_cross_validation(20, trainer, trains)
     print("ave performance: %lf" % average_performance)
