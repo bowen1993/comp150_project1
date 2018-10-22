@@ -29,24 +29,24 @@ def sepFiles(tagNameMap):
                                 data[tagNameMap[role]].extend(fileData[role])
     print("num of male speech: %d, female: %d, total: %d" % (len(data['male']), len(data['female']), len(data['male']) + len(data['female']) ))
     random.shuffle(data['male'])
-    data['male'] = data['male'][:len(data['female'])]
+    # data['male'] = data['male'][:len(data['female'])]
     dir_path = 'data/train'
     splitIndex = int(len(data['female']) * 0.8)
     #generate train data
     for gender in data:
         sub_dir_path = os.path.join(dir_path, gender)
         
-        for index, item in enumerate(data[gender][:splitIndex]):
+        for index, item in enumerate(data[gender]):
             with open("%s.txt" % os.path.join(sub_dir_path, str(index)), 'w') as f:
                 f.write(item)
     #generate test data
-    dir_path = 'data/test'
-    for gender in data:
-        sub_dir_path = os.path.join(dir_path, gender)
+    # dir_path = 'data/test'
+    # for gender in data:
+    #     sub_dir_path = os.path.join(dir_path, gender)
         
-        for index, item in enumerate(data[gender][splitIndex:]):
-            with open("%s.txt" % os.path.join(sub_dir_path, str(index)), 'w') as f:
-                f.write(item)
+    #     for index, item in enumerate(data[gender][splitIndex:]):
+    #         with open("%s.txt" % os.path.join(sub_dir_path, str(index)), 'w') as f:
+    #             f.write(item)
     
     
 tagMap = loadTagNameMap('./Comp150 - filtered_name_id.csv')
